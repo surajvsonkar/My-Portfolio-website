@@ -126,3 +126,7 @@ hr{
 	width: 6%;
 	margin: 100px auto;
 }
+
+a:hover{
+	color: white;
+}
