@@ -596,7 +596,7 @@ span {
 	color: #333;
 }
 
-/* BREAKPOINTS */
+	/* BREAKPOINTS */
 
 @media (max-width: 1200px) {
 	html {
@@ -865,6 +865,14 @@ span {
 	}
 	.home .projects-box .projects:nth-child(1) {
 		transform: rotate(180deg) translate(-210px, -335px);
+	}
+
+	.about {
+		margin-top: -17.6rem;
+	}
+
+	.testimonial-container {
+		margin-top: -38rem;
 	}
 
 	.contact form .input-box input {
