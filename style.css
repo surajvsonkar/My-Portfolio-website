@@ -846,7 +846,11 @@ span {
 	}
 
 	#darkMode-icon {
-		right: 6rem;
+		right: 16rem;
+	}
+
+	.bx-menu {
+		margin-right: 10rem;
 	}
 
 	.home {
