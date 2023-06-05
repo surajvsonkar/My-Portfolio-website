@@ -699,6 +699,7 @@ nav .logo {
 @media (max-width: 400px) {
 	.projects-grid .pro__1 {
 		width: 100%;
+overflow-x:hidden;
 	}
 }
 
