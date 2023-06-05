@@ -661,7 +661,6 @@ nav .logo {
 }
 
 .projects-grid {
- position:absolute;
 	grid-gap: 5rem;
 	display: grid;
 	gap: 5rem;
