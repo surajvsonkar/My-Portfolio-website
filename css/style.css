@@ -15,6 +15,12 @@ body {
 	position: relative;
 }
 
+@media (max-width: 400px){
+	body{
+		position:absolute;
+	}
+}
+
 .container {
 	margin: 0 auto;
 	max-width: 107rem;
